@@ -1,0 +1,15 @@
+[package]
+name = "whoops"
+authors = ["Hisbaan Noorani"]
+version = "0.0.1"
+edition = "2021"
+license = "GPL-3.0"
+description = "A CLI utility to undo common commands"
+documentation = "https://github.com/hisbaan/whoops"
+homepage = "https://github.com/hisbaan/whoops"
+repository = "https://github.com/hisbaan/whoops"
+readme = "docs/README.md"
+keywords = ["undo"]
+categories = ["command-line-utilities"]
+
+[dependencies]
